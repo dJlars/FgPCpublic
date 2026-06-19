@@ -16,7 +16,8 @@ The framework is applied to the Duffing oscillator as a benchmark example and to
 
 The relevant parameters are the harmonics $H$, the polynomial degree $N$ and the distribution of the uncertain parameter.
 
-Further details are given in the publication [tbd].
+Further details are given in the publication [“Uncertainty Analysis of Limit Cycle Oscillations in Nonlinear Dy-
+namical Systems with the Fourier Generalized Polynomial Chaos Expansion”](https://doi.org/10.1016/j.jsv.2025.119017).
 
 # Folder Structure
 
